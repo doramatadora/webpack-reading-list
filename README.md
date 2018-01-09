@@ -1,4 +1,4 @@
-#A compendium of Webpack resources
+# A compendium of Webpack resources
 
 ## Talks
 * Sean Larkin: [Webpack: The Core Concepts](https://www.youtube.com/watch?v=AZPYL30ozCY)
