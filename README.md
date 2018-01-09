@@ -12,6 +12,7 @@
 * Nirjhor, [Webpack 3 quickstarter: Configure webpack from scratch](https://medium.com/@nirjhor123/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a?source=linkShare-9d2fdc36cb26-1515450154)
 * Tim Sebastian, [Predictable long term caching with Webpack](https://medium.com/webpack/predictable-long-term-caching-with-webpack-d3eee1d3fa31)
 * Sean Larkin, [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
+* Nolan Lawson, [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
 * RC, [Optimising your application bundle size with webpack](https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579?source=linkShare-9d2fdc36cb26-1515449264)
 * Vladimir Metnew, [Webpack loaders and plugins for your new Progressive Web App](https://hackernoon.com/webpack-loaders-and-plugins-for-your-new-progressive-web-app-378e09f469?source=linkShare-9d2fdc36cb26-1515449480)
 * Anthony Gore, [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://medium.com/js-dojo/critical-css-and-webpack-automatically-minimize-render-blocking-css-5390850dad45?source=linkShare-9d2fdc36cb26-1515449763)
@@ -42,3 +43,10 @@
 
 ### Other
 * [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard) – CLI dashboard for your webpack dev server
+
+
+***
+
+## Webpack 4
+* [Changes part 1](https://medium.com/webpack/webpack-4-changes-part-1-week-24-25-fd4d77674e55)
+* [The new plugin system](https://medium.com/webpack/the-new-plugin-system-week-22-23-c24e3b22e95)
